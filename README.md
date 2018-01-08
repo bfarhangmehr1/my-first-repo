@@ -3,6 +3,8 @@
 
  I have learnt how to 
  
- Instal GitHub Desktop
- Creat a local repository
- Commit changes to my repository
+ - Instal GitHub Desktop
+ - Creat a local repository
+ - Commit changes to my repository
+ - Publish my code to GitHub.com
+ 
