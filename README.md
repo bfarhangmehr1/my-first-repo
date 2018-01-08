@@ -8,3 +8,9 @@
  - Commit changes to my repository
  - Publish my code to GitHub.com
  - I have learnt how to open my repository folder in visual studio code (my editor)
+ - how to create a good .gitignore file - [from Gitignore.io]
+ ( https://www.gitignore.io/)
+ - create a good .gitattribbutes file - from [GitAttributes.io]
+ (https://www.gitattributes.io/)
+ - commit my changes from within visula studio
+ 
