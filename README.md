@@ -7,4 +7,4 @@
  - Creat a local repository
  - Commit changes to my repository
  - Publish my code to GitHub.com
- 
+ - I have learnt how to open my repository folder in visual studio code (my editor)
