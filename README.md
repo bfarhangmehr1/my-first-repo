@@ -14,8 +14,9 @@
  (https://www.gitattributes.io/)
  - commit my changes from within visula studio
  - connit changes via the command line
-  - ` git add.`
+  - `git add.`
   - `git status`
   - `git commit -m "My Message ( in quotes)"`
   - `git pull`
   - `git push`
+  
